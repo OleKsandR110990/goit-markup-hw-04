@@ -499,7 +499,6 @@ border-radius: 4px;
 }
 
 .bf .button {
-
   color: var(--pimary-white-color);
   background-color: var(--accent-color);
 
@@ -518,6 +517,7 @@ border-radius: 4px;
 }
 
 /* Button page 2 */
+
 .button {
   padding: 6px 22px;
 
@@ -558,6 +558,7 @@ border-radius: 4px;
   margin-top: 0;
   margin-bottom: 50px;
 }
+
 .navg .navli + .navli {
   margin-left: 8px;
 }
@@ -584,6 +585,7 @@ border-radius: 4px;
   height: auto;
   background-color: #4a4545;
 } 
+
 .shadow {
   box-shadow: 1px 4px 6px rgba(0, 0, 0, 0.16), 0px 4px 4px rgba(0, 0, 0, 0.06), 0px 1px 1px rgba(0, 0, 0, 0.12);
 }
@@ -670,6 +672,7 @@ border-radius: 4px;
 
 
 /* Футер заливка */
+
 footer {
   background-color: #2f303a;
 }
